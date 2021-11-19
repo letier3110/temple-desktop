@@ -1,0 +1,22 @@
+<svg
+                          role="img"
+                          width="48px"
+                          height="48px"
+                          viewBox="0 0 24 24"
+                          stroke="white"
+                          stroke-width="1"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                          fill="none"
+                          className="
+                            hidden
+                            h-4
+                            w-4
+                            pointer-events-none
+                            stroke-current
+                          "
+                          style="stroke-width: 2"
+                        >
+                          <title id="okIconTitle">Ok</title>
+                          <polyline points="4 13 9 18 20 7"></polyline>
+                        </svg>

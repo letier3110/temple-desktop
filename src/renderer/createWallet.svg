@@ -1,0 +1,16 @@
+<svg
+  width="48px"
+  height="48px"
+  viewBox="0 0 24 24"
+  stroke="white"
+  stroke-width="1"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  fill="none"
+  className="transform scale-125 stroke-current"
+>
+  <title id="folderAddIconTitle">Add to folder</title>
+  <path d="M3 5H9L10 7H21V19H3V5Z"></path>
+  <path d="M15 13H9"></path>
+  <path d="M12 10V16"></path>
+</svg>

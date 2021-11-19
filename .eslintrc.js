@@ -1,6 +1,8 @@
 module.exports = {
   extends: 'erb',
   rules: {
+    'jsx-a11y/label-has-associated-control': 'off',
+    'react/button-has-type': 'off',
     // A temporary hack related to IDE not resolving correct package.json
     'import/no-extraneous-dependencies': 'off',
     // Since React 17 and typescript 4.1 you can safely disable the rule

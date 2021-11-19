@@ -1,0 +1,15 @@
+<svg
+                    role="img"
+                    width="48px"
+                    height="48px"
+                    viewBox="0 0 24 24"
+                    stroke="white"
+                    stroke-width="1"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    fill="none"
+                    class="-ml-2 h-5 w-auto stroke-current stroke-2"
+                  >
+                    <title id="chevronLeftIconTitle">Chevron Left</title>
+                    <polyline points="14 18 8 12 14 6 14 6"></polyline>
+                  </svg>

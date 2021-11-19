@@ -20,6 +20,10 @@ export default {
           loader: 'ts-loader',
         },
       },
+      {
+        test: /\.svg$/,
+        use: ['@svgr/webpack'],
+      },
     ],
   },
 
